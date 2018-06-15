@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ARDUnity/Examples/Buzzer/CircuitTest(Buzzer).unity
+  isLoaded: 1
+  isActive: 1
